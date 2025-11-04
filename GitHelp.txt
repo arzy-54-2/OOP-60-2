@@ -41,12 +41,5 @@ git commit -m "feat: add new feature"
 git commit -m "update: update feature"
 git commit -m "hotfix: fix bug on login page"
 
+git commit -m "hotfix: fix bug on login page"
 
-
-
-
-
-
-wgrevferfcwe
-cwedcwe
-dcqw
