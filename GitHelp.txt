@@ -14,3 +14,29 @@
 7) git commit -m "message" | сохранение всего из буфера обмена
 
 8) git push origin master   | Отправка изменений в репозитории
+
+9) git branch        | Просмотреть все ветки
+10) git branch new_branch   | Создать новую ветку
+11) git checkout new_branch | Переключиться на новую ветку
+    git switch new_branch | Переключиться на новую ветку
+
+12) git restore       | Вернуть файлы в исходное состояние
+13) git reset         | Вернуть файлы в исходное состояние после git add .
+15) git reset --mixed HEAD~1 | Удалить последний коммит и вернуть файлы в исходное состояние
+
+stage
+
+production  - V1.0.0.0
+
+
+feat/
+fix/
+update/
+hotfix/
+delete/
+
+
+git commit -m "fix: fixing bug on login page"
+git commit -m "feat: add new feature"
+git commit -m "update: update feature"
+git commit -m "hotfix: fix bug on login page"
