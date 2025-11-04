@@ -43,3 +43,4 @@ git commit -m "hotfix: fix bug on login page"
 
 git commit -m "hotfix: fix bug on login page"
 
+git merge name_branch
