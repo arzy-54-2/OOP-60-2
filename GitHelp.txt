@@ -45,4 +45,12 @@ git commit -m "hotfix: fix bug on login page"
 
 git merge name_branch
 ]
-dqdwefcwe
+
+
+python
+py           -m venv name_venv
+python3
+
+
+venv_name\Scripts\activate      | Для Windows
+source venv_name/bin/activate   |. Для Mac\Linux
