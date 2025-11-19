@@ -1,4 +1,4 @@
-# from colorama import Fore, Back, Style
+from colorama import Fore, Back, Style
 #
 #
 # print(Fore.RED + "Some text" + Style.RESET_ALL)
@@ -49,4 +49,4 @@ def print_lyrics():
         sleep(0.3)
 
 
-print_lyrics()
+# print_lyrics()

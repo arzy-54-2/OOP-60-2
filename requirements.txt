@@ -1,0 +1,4 @@
+pygame
+Pygments
+pyttsx3
+rich

@@ -43,3 +43,18 @@ while running:
     clock.tick(60)  # limits FPS to 60
 
 pygame.quit()
+
+
+def get_element_by_index(array, target):
+    # for i in array:
+    #     if i == target:
+    #         return print("Нашли")
+    #
+    #     return print("Нету")
+    # if target in array:
+    #     return print("Найден")
+    # return print("Нету")
+    # return print(array[target])
+    pass
+
+get_element_by_index([14], 14)
