@@ -1,7 +1,7 @@
 import sqlite3
 
 # A4 - Бумага
-connect = sqlite3.connect('users.db')
+connect = sqlite3.connect('students.db')
 # Рука с карандашом
 cursor = connect.cursor()
 
